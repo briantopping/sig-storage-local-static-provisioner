@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  provisioner:
+  - apiVersion: v1
+    appVersion: 2.3.4
+    created: "2020-05-02T16:00:58.241408452-06:00"
+    description: local provisioner chart
+    digest: 89221a8832dd18233043ae0a6c1bfc310bdb01acdf7b03271109c2c129de244a
+    keywords:
+    - storage
+    - local
+    name: provisioner
+    urls:
+    - provisioner-3.0.0.tgz
+    version: 3.0.0
+generated: "2020-05-02T16:00:58.238847734-06:00"
